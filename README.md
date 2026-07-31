@@ -1,21 +1,20 @@
 # AI Agents Vibe Coding Lab
 
-Hands-on projects, experiments, and notes from the Google & Kaggle 5-Day AI Agents Intensive Workshop focused on building AI agents with Gemini, ADK, MCP, memory systems, tool integrations, and agent evaluation.
+Hands-on projects, experiments, and notes from the Google × Kaggle 5-Day AI Agents Intensive Workshop, focused on building AI agents using Gemini, ADK, MCP, memory systems, tool integrations, and agent evaluation techniques.
 
 ## Overview
 
-This repository documents my learning journey through the workshop and contains practical implementations of agentic AI concepts.
+This repository documents my learning journey through the workshop and contains practical implementations of agentic AI concepts, along with notes, experiments, and hands-on exercises.
 
 ## Topics Covered
 
 * Agent Fundamentals
 * Prompt Engineering for Agents
-* Tool Calling
+* Tool Calling and API Integration
 * Model Context Protocol (MCP)
 * Agent Memory Systems
 * Multi-Agent Architectures
-* Agent Evaluation
-* Agent Observability
+* Agent Evaluation and Observability
 * AgentOps
 * Production Deployment
 
@@ -40,7 +39,7 @@ Agent capable of invoking external tools and APIs.
 
 ### Memory Agent
 
-Agent with short-term and long-term memory concepts.
+Agent implementing short-term and long-term memory concepts.
 
 ### Research Agent
 
@@ -56,26 +55,27 @@ Collaborative agents working together to solve complex tasks.
 * Google Gemini
 * Google AI Studio
 * Agent Development Kit (ADK)
+* Model Context Protocol (MCP)
 * Jupyter Notebooks
 
 ## Key Learnings
 
 * Designing effective agent workflows
 * Managing context and memory
-* Integrating tools and APIs
-* Evaluating agent performance
+* Integrating tools and external APIs
+* Evaluating agent performance and reliability
 * Deploying production-ready agent systems
 
 ## Getting Started
 
-### Clone Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/meetarahulshukla/ai-agents-vibe-coding-lab.git
 cd ai-agents-vibe-coding-lab
 ```
 
-### Create Virtual Environment
+### Create a Virtual Environment
 
 ```bash
 python -m venv .venv
@@ -88,17 +88,35 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## References
+## Resources
+
+### Google Antigravity
+
+* Google Antigravity: https://antigravity.google/
+* Google Antigravity Download: https://antigravity.google/download
+* Getting Started with Google Antigravity Codelab: https://codelabs.developers.google.com/getting-started-google-antigravity
+
+### Google × Kaggle AI Agents Intensive Workshop
+
+* Kaggle Learn Guide: https://www.kaggle.com/learn-guide/5-day-agents
+* AI Agents Intensive (Vibe Coding): https://www.kaggle.com/learn-guide/5-day-agents-vibecoding
+* Google AI Agents Intensive Announcement: https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/
+
+### Additional Documentation
 
 * Google AI Studio
-* Kaggle Learn Guides
 * Gemini API Documentation
-* Agent Development Kit (ADK)
+* Agent Development Kit (ADK) Documentation
+
+## Attribution
+
+This repository contains my personal notes, experiments, code samples, and hands-on implementations inspired by Google's Antigravity Codelabs and the Google × Kaggle AI Agents Intensive Workshop. All trademarks, course materials, and related content belong to their respective owners.
 
 ## Disclaimer
 
-This repository is intended for educational and learning purposes. Some implementations are simplified examples created while exploring agentic AI concepts.
+This repository is intended for educational and learning purposes. The content reflects my personal understanding and experimentation with the technologies covered during the workshop.
 
 ## Author
 
-Meeta
+**Meeta Shukla**
+

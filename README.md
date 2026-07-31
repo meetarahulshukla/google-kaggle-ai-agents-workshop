@@ -71,7 +71,7 @@ Collaborative agents working together to solve complex tasks.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<username>/ai-agents-vibe-coding-lab.git
+git clone https://github.com/meetarahulshukla/ai-agents-vibe-coding-lab.git
 cd ai-agents-vibe-coding-lab
 ```
 

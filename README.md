@@ -2,6 +2,10 @@
 
 Hands-on projects, experiments, and notes from the Google × Kaggle 5-Day AI Agents Intensive Workshop, focused on building AI agents using Gemini, ADK, MCP, memory systems, tool integrations, and agent evaluation techniques.
 
+<p align="center"> <img src="images/antigravity-workspace.png" alt="Google Antigravity Agent Workspace" width="900"> </p>
+
+<p align="center"> <img src="images/antigravity-ide.png" alt="Google Antigravity IDE" width="900"> </p>
+
 ## Overview
 
 This repository documents my learning journey through the workshop and contains practical implementations of agentic AI concepts, along with notes, experiments, and hands-on exercises.
